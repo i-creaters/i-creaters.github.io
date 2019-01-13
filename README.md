@@ -19,3 +19,9 @@ If you want that you can view your website on your own side than you have to do 
 3. Finally raise a issue in which you provide us the public token of that repo.
 
 One of our team member will look into the issue and guide to further for the creation of your stunning website.
+
+# How it works.
+
+To see it working in action just click the below link.
+
+https://drive.google.com/open?id=158xH0lS47ugWFtCjPvxwVMTbFlAAAOvZ
